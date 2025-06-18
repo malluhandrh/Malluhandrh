@@ -1,6 +1,6 @@
 # Olá, eu sou a Maria Luiza! 👋
 
-Sou iniciante em tecnologia e estou aprendendo programação e desenvolvimento.
+Sou estudante de tecnologia e estou aprendendo programação e desenvolvimento.
 
 🚀 Atualmente estou estudando:  
 - Python  
